@@ -55,3 +55,21 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#class specific suppression
+submissions/
+.pynb_checkpoints/
+
+Shortcut.lnk
+
+*checkpoint.ipynb
+scientific-python-lectures-master/
+statistical-analysis-python-tutorial-master/
+
+#virtualenv stuff
+bin/*
+lib/*
+share/*
+include/*
+pip-selfcheck.json
+
